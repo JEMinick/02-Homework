@@ -3,7 +3,7 @@
    My vision for Horiseon: [Horiseon Website](https://jeminick.github.io/Horiseon-Eds-Beta/)
    My gitHub for Horiseon: [Horiseon GitHub](https://github.com/JEMinick/Horiseon-Eds-Beta/)
 
- ![Screen shot of Horiseon:](https://github.com/JEMinick/Horiseon-Eds-Beta/assets/images/Horiseon-ScreenShot.PNG?raw=true)
+Screen shot of Horiseon: ![Screen shot of Horiseon:](https://github.com/JEMinick/Horiseon-Eds-Beta/horiseonscreenshot.png?raw=true)
 
 ## Description:
    A landing page which hi-lights the objectives and benefits that Horiseon identifies and provides.
