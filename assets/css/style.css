@@ -79,13 +79,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Converted the <div class="article"> to article */
+article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* Converted the <div class="benefits"> to aside */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
