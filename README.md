@@ -6,7 +6,7 @@
    [Horiseon GitHub](https://github.com/JEMinick/Horiseon-Eds-Beta/).
 
 ## Page preview:
-![Refactored:](./assets/images/Horiseon-ScreenShot.png?raw=true)
+![Refactored:](./assets/images/Horiseon-ScreenShot.PNG?raw=true)
 
 # Description:
    A landing page which hi-lights the objectives and benefits that Horiseon identifies and provides.
