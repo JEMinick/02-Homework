@@ -1,9 +1,9 @@
 
 # Project: Horiseon Social Solution Services
    ## My vision for Horiseon:
-   [Horiseon Website](https://jeminick.github.io/Horiseon-Eds-Beta/).
+   [Horiseon Website](https://jeminick.github.io/Horiseon/).
    ## My gitHub for Horiseon:
-   [Horiseon GitHub](https://github.com/JEMinick/Horiseon-Eds-Beta/).
+   [Horiseon GitHub](https://github.com/JEMinick/Horiseon/).
 
 ## Page preview:
 ![Refactored:](./assets/images/Horiseon-ScreenShot.PNG?raw=true)
